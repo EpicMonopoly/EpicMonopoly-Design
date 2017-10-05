@@ -42,6 +42,7 @@ Map
     Tax rate
 
 Player
+    //设定一个默认（系统）用户
     uid
     userName
     status
