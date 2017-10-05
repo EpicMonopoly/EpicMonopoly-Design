@@ -1,4 +1,7 @@
 Property
+    owner player //所有者 system or player
+    usage //用途
+
     Street // 22 地皮
         color // 8 街区用不同区块颜色表示
     Railway station // 4 车站，四条边的中心
@@ -13,9 +16,22 @@ Property
         Free Parking
         Go to Jail
 
+    extend
+    price //价格
+    layer //层数
+    is_mortgage //是否抵押
+    action
+
 Card
-    //内部实现洗牌
-    + getCard()
+    name
+    action
+
+CardPile
+    Card[]
+    + shuffle() //内部实现洗牌
+    - clear()
+    - add(Card)
+    - delate(Card)
 
 Room
     uid
@@ -37,3 +53,6 @@ Tax
     int price_rate
     + getPrice(Property)
     + Setprice(rate)
+
+Action
+    //静态类
