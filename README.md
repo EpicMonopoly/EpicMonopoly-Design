@@ -10,11 +10,11 @@ This repo contains all design files of EpicMonopoly.
  - [x] Technique search
  - [x] Proposal
  - [x] Imporve UML design 
- - [ ] **Front end**(Constructing)
- 	+ [ ] UI (Begin soon)	
- - [ ] **Back end**(Constructing)
- 	+ [ ] Game logic(Begin soon)
- - [ ] **Database**(Server need to estabilish)
+ - [ ] **Front end**(Developing)
+ 	+ [ ] UI (Developing)	
+ - [ ] **Back end**(Developing)
+ 	+ [ ] Game logic(Developing)
+ 	+ [ ] Set up servers(Begin soon)
  - [ ] Test
  	- [ ] Unit test
 	- [ ] Functional test
