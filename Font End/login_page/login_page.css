@@ -1,0 +1,20 @@
+.container{
+    position: absolute;
+
+}
+.scene{
+    border:1px solid black;
+}
+/*整个界面的背景*/
+{
+  margin:0;
+  padding:0;}
+html {
+    background: url("body_background.JPG") no-repeat center center;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+
+
+
