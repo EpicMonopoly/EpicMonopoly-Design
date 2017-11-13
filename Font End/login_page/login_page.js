@@ -12,6 +12,7 @@
          context.fillStyle="#000000";
          context.font="14px_sans";
          context.fillText("hello world", 215, 50);
+         //test
 
      }
      // 绘制圆角矩形
