@@ -2,8 +2,7 @@
 
 This repo contains all design files of EpicMonopoly.
 
-The details of design is stated in the [final report](./Reports/Final\ report).
-
+The details of design is stated in the final report.
 
 # To do
 
@@ -28,4 +27,5 @@ The details of design is stated in the [final report](./Reports/Final\ report).
 
 # Future Work
 
+Balance test should be done in future, however, game test is a hard work.
 Front end will improved and architectures will be further developed with database and proxy.
